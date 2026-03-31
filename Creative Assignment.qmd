@@ -10,4 +10,6 @@ Quarto enables you to weave together content and executable code into a finished
 1 + 1
 ```
 
-This is my updated version
+This is my updated version.
+
+Another minor change.
