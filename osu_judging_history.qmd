@@ -22,7 +22,7 @@ events <- data.frame(
     "1975\nThe Callahan Era",
     "1985\nGrowing the Coaching Tree",
     "2017–19\nA Modern Dynasty",
-    "Present\nGrowing the Legend"
+    "Present\nGrowing the Legacy"
   ),
   side = c(1, -1, 1, -1, 1, -1, 1, -1)
 ) %>%
@@ -87,6 +87,8 @@ draw_timeline(1901)
 
 Frank Burtis was a faculty member in the Animal Husbandry Department at then Oklahoma Agricultural and Mechanical College. While introducing the department’s first dairy classes and starting the iconic “Dairy Bar”, Burtis decided to offer a livestock evaluation course in 1899. At the time, much of the livestock housed at the college farms were below breed standards and of poor quality. Burtis recognized this, and acquired literature from registered livestock associations to help teach the course and, eventually, aid in his coaching of the team.
 
+!["Old Central" at Oklahoma A&M College](images/images.jpeg)
+
 ------------------------------------------------------------------------
 
 @cr-1925
@@ -103,6 +105,8 @@ draw_timeline(1925)
 ### The Foundation
 
 Under the direction of **A.E. Darlow** and **W.L. Blizzard**, the university was able to become the 1925 national champion livestock judging team, Oklahoma A&M’s first championship. They followed with national champion teams in 1926 and 1928 which gave permanent ownership of the Union Stock Yard and Transit Co. Trophy to Oklahoma A&M, with the “bronze bull” trophy being retired after a university has won it three times. The bull is still displayed in the Animal Science building today.
+
+![Oklahoma State's first national champion team](images/1925 LJT Photo.jpg){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -123,7 +127,11 @@ draw_timeline(1948)
 
 **Dr. Robert Totusek** was a member of Glen Bratcher’s 1948 national champion team where he finished as the second-high individual at the International. After completing his bachelor’s degree at Oklahoma A&M in 1949, he earned his master’s and Ph.D. in animal nutrition at Purdue University. In 1952, he returned to Oklahoma A&M to join the animal science faculty and coach the livestock judging team. During his eight-year run, He coached 2 national champion teams and 3 reserve national champion teams.
 
+![Dr. Totusek's (3rd from right) national champion team in 1948.](images/1948 LJT Photo.jpg){fig-align="center"}
+
 Dr. Totusek then served as department head at the newly renamed Oklahoma State University from 1976 to 1990. During this time, he expanded curriculum in the department, reestablished the horse program, and authored or co-authored more than 200 publications, many being in the field of beef cattle range management. His leadership also initiated the construction of facilities such as the Animal Science Building, Animal Science Arena, Food and Agricultural Products Center, Beef Cattle Research Center, and the Swine Research and Education Center. His legacy embodies a blend of visionary leadership and personal dedication that continues to inspire students, faculty, and livestock producers across the state and beyond. 
+
+![Dr. Totusek's Saddle & Sirloin Portrait](images/image-100.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -148,6 +156,8 @@ The Chicago Tribune featured her accomplishment on the front page of its Decembe
 
 Her achievement represented a major breakthrough for women in animal agriculture and collegiate judging, demonstrating that skill, accuracy, and evaluative ability transcend long‑standing gender barriers.
 
+![](images/minnie lou-03.jpeg){fig-align="center"}
+
 ------------------------------------------------------------------------
 
 @cr-1975
@@ -167,9 +177,13 @@ draw_timeline(1975)
 
 **Jarold Callahan** was a member of Bob Kropp’s successful 1975 livestock judging team. After graduating in 1976 with a Bachelor’s degree in Animal Science as one of the top seniors in the College of Agriculture, he earned his Master’s degree in Animal Science from the University of Arkansas. After coaching a national champion team alongside Kim Brock in 1981, Callahan served as the head livestock judging coach and assistant professor of animal science at OSU until 1991. This tenure is one of the most successful in the program’s storied history, being highlighted by three consecutive national champion teams in 1989, 1990, and 1991. 
 
-He is described as having an exceptional ability to connect with students and develop their talents. Tandem this with his strong work ethic, competitive spirit, and wealth of knowledge and it is hardly surprising that his academic career left a lasting mark on the OSU Department of Animal and Food Sciences. In 1991 he was elected as Executive Vice President of the Oklahoma Cattlemen’s Association, where he continued to influence the cattle industry until his term ended in 1995. Subsequently, he became president of Express Ranches in Yukon, Oklahoma, where he oversaw one of the largest purebred cattle operations in North America for 27 years and helped innovate and shape the future of the seedstock industry. 
+He is described as having an exceptional ability to connect with students and develop their talents. Tandem this with his strong work ethic, competitive spirit, and wealth of knowledge and it is hardly surprising that his academic career left a lasting mark on the OSU Department of Animal and Food Sciences. In 1991 he was elected as Executive Vice President of the Oklahoma Cattlemen’s Association, where he continued to influence the cattle industry until his term ended in 1995. Subsequently, he became president of Express Ranches in Yukon, Oklahoma, where he oversaw one of the largest purebred cattle operations in North America for 27 years and helped innovate and shape the future of the seedstock industry.
+
+![Jarold Callahan and Bob Funk, founder of Express Angus Ranch](images/Jarold-Callahan_Bob-Funk-20.jpg){fig-align="center"}
 
 Callahan was appointed to the Oklahoma A&M Board of Regents in 2016, and he eventually chaired the board from 2022 until his passing. In 2023, he was inducted into the prestigious Saddle and Sirloin Portrait Gallery to recognize his lasting contributions to livestock judging and the beef industry. Callahan’s connection to OSU was multifaceted- student, coach, professor, and regent- and his contributions shaped both the university’s agricultural programs and the cattle industry nationwide.
+
+![](images/callahan_OSU.jpg)
 
 ------------------------------------------------------------------------
 
@@ -189,6 +203,8 @@ draw_timeline(1985)
 ### Growing the Coaching Tree
 
 After a highly successful run with the 1985 Reserve National Champion team coached by Jarold Callahan, **Mark Johnson** pursued his Master’s degree in Ruminant Nutrition from Oklahoma State followed by his Ph.D. in Animal Breeding and Genetics from Kansas State University in 1992. He joined the faculty at Oklahoma State University, where he still serves to this day. His tenure as coach of the livestock judging team reached unprecedented heights for the program. He coached four national champion teams in 2001, 2005, 2010, and 2012, while coaching four reserve national champion teams in 1992,1993,1994 and 2004. His 2005 national champion team still holds the record for the all-time highest score in the history of the contest. 
+
+![Mark Johnston's 2005 team that set the all-time record for high team score at NAILE](images/2005 LJT Photo.jpg){fig-align="center"}
 
 His accomplishments earned him recognition with receiving the Coach of the Year Award seven times. From 1992-2013, his teams were either Champion or Reserve Champion team in 70% of the contests in which they competed. He has also managed the OSU Purebred Beef Cattle Center and been a valuable educator in the Department of Animal Science since 1992, specializing in courses involving animal breeding and beef cattle management.
 
@@ -211,6 +227,8 @@ draw_timeline(2018)
 
 After earning a Bachelor’s degree in animal science and a Master’s degree in reproductive physiology from Texas A&M, **Dr. Blake Bloomberg** came to OSU to pursue a Ph.D. in animal science while coaching the livestock judging team. Under his leadership, OSU continued their dominant run with 3 consecutive national champion teams in 2017, 2018, and 2019. He also coached 4 high individuals, with Bloomberg being named Coach of the Year in every year he coached at OSU.
 
+![Bloomberg's 2019 national champion team, his 3rd in a row. They won all divisions and reasons at NAILE](Picture1.jpg){fig-align="center"}
+
 ------------------------------------------------------------------------
 
 @cr-2024
@@ -226,7 +244,9 @@ draw_timeline(2024)
 
 ------------------------------------------------------------------------
 
-### Growing the Legend
+### Growing the Legacy
 
 After earning his doctorate, the open coaching position at Oklahoma State University proved to enticing for **Dr. Parker Henley** to pass up. Henley is currently the livestock judging team coach and Dr. Robert “Bob” Totusek Endowed Chair Fellow while also serving as an extension specialist focused in beef cattle management and youth livestock selectionand education. His short time coaching at the university has brought unprecedented success. Through 5 years, he has coached 4 national champion teams, 1 reserve national champion team, and 2 high individuals at the National Collegiate Livestock Judging Contest.
+
+![Henley's 2023 national champion team that set the all-time reasons record at NAILE.](images/IMG_3179.JPEG){fig-align="center"}
 :::::::::::
