@@ -1,0 +1,22 @@
+/* Reduce vertical spacing between narrative blocks */
+.cr-section .narrative-col > * + * {
+  margin-top: 0.6rem !important;
+}
+
+.cr-section hr {
+  margin-block: 0.6rem !important;
+}
+
+.cr-section h3 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.3rem !important;
+}
+
+.cr-section p {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Tighten the overall section padding */
+.cr-section {
+  padding-block: 0.5rem !important;
+}
